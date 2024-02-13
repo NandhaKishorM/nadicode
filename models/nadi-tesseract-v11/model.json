@@ -1,0 +1,29 @@
+
+{
+  "source_url": "https://nocodeai.s3.amazonaws.com//mnt/batch/tasks/shared/LS_root/mounts/clusters/number4a100/code/Users/nandakishor/final_weights_new/Nadi_Tesseract_V11.gguf",
+  "id": "nadi-tesseract-v11",
+  "object": "model",
+  "name": "Nadi Tesseract V1.1",
+  "version": 1.1,
+  "created":1455667895,
+  "description": "Nadi Tesseract V1.1 is a fine tuned quantized LLM for coding capabilities",
+  "format": "gguf",
+  "settings": {
+    "ctx_len": 4096,
+    "prompt_template": "### Instruction:\n{prompt}\n### Response:"
+  },
+  "parameters": {
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "stream": true,
+    "max_tokens": 4096,
+    "frequency_penalty": 0,
+    "presence_penalty": 0
+  },
+  "metadata": {
+    "author": "Convai Innovations",
+    "tags": ["Tiny", "Foundational Model"],
+    "size": 776066240
+  },
+  "engine": "nitro"
+}
