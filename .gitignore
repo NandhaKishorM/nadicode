@@ -13,7 +13,8 @@ electron/renderer
 electron/models
 electron/docs
 package-lock.json
-
+./history
+.history
 *.log
 core/lib/**
 

@@ -90,8 +90,8 @@ This will build the app MacOS m1/m2 for production (with code signing already do
 Nadi builds on top of other open-source projects:
 
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [TensorRT](https://github.com/NVIDIA/TensorRT)
 - [Jan](https://github.com/janhq/jan)
+- [TensorRT](https://github.com/NVIDIA/TensorRT)
 
 
 
