@@ -2,7 +2,7 @@
 
 **Website** : [Link](https://nadicode.in/)
 
-**Fine-tuned model license** : [Link](https://github.com/NandhaKishorM/Nadi-Desktop/blob/master/LLM_LICENSE.md)
+**Fine-tuned model and custom thread license** : [Link](https://github.com/NandhaKishorM/Nadi-Desktop/blob/master/LLM_LICENSE.md)
 
 
 ## Troubleshooting
